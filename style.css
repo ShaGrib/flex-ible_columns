@@ -1,0 +1,31 @@
+.row{
+    display: flex;
+    background-color: red;
+}
+
+.size{
+    padding: 30px;
+    margin: 15px;
+}
+.col{
+    flex: 4;
+    background-color: cyan;
+}
+
+.col-2{
+    flex: 3;
+    background-color: green;
+}
+
+.col-3{
+    flex: 5;
+    background-color: pink;
+}
+
+#prestochangeo{
+    background-color: orange;
+}
+
+#prestochangeo2{
+    background-color: brown;
+}
